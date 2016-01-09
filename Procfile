@@ -1,0 +1,1 @@
+web: run/hubot --adapter hipchat
