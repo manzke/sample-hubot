@@ -1,5 +1,5 @@
 .env
-.iml
+*.iml
 
 # Logs
 logs
