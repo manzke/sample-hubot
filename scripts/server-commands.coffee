@@ -1,5 +1,5 @@
 # Description:
-#   managing server for fileNshare
+#   manage server
 #
 # Commands:
 #   hubot server:add name http|https ip

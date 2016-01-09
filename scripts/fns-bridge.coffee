@@ -4,8 +4,8 @@ module.exports = class FNS extends Bridge
 
     constructor: (jid, robot, options) ->
         protocol = 'https'
-        host = 'filenshare.saperion.com'
-        service = 'fns-service'
+        host = 'sample.com'
+        service = 'service'
         api_version = 1
         if options?
             if options.protocol?
